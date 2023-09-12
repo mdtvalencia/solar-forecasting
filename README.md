@@ -11,5 +11,6 @@ With only a max of 30% MAPE requirement, the power plant's MAPE as of July 2023 
 Which means that using the program is really helpful in forecasting the plant's hour ahead bids.  <br>
 
 <h1>Performance metrics </h1> <br>
-The R2 score is: <b> 79.13479604623069 </b> <br>
+The R2 score is: <b> 79.13479604623069 </b> 
+<br>
 The R score is: <b> 88.95774055484475 </b>
