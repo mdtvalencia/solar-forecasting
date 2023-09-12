@@ -3,7 +3,7 @@ Using LSTM to forecast an hour ahead of a solar powerplant ouput <br>
 This code was made to forecast an hour ahead output of a specific power plant in the Pampanga, Philippines. <br>
 All of the data used were part of historical performances of a specific powerplant <br>
 
-<b>Government Regulations</b> <br>
+<h1> Government Regulations </h1> <br>
 Since we are in need to comply with certain regulations prompted by the government, <br>
 I made this algorithm to forecast the power plant's output in MegaWatt with basis. <br>
 
