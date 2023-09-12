@@ -10,6 +10,6 @@ I made this algorithm to forecast the power plant's output in MegaWatt with basi
 With only a max of 30% MAPE requirement, the power plant's MAPE as of July 2023 is **_6.7%_** with the help of this program algorithm
 Which means that using the program is really helpful in forecasting the plant's hour ahead bids.  <br>
 
-Performance metrics<br>
+<h1>Performance metrics </h1> <br>
 **The R2 score is:  79.13479604623069** <br>
 **The R score is:  88.95774055484475** <br>
